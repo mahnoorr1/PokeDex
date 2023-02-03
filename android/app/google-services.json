@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186455822291",
+    "project_id": "pokdex-61206",
+    "storage_bucket": "pokdex-61206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186455822291:android:32041077cc30d99161a926",
+        "android_client_info": {
+          "package_name": "com.example.assessment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186455822291-e7g9oiavi7ul8m0se8rg8vccleme59gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoEbX0SSsJX5OhRkVUmf9vpamenJntQqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186455822291-e7g9oiavi7ul8m0se8rg8vccleme59gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
